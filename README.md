@@ -1,5 +1,5 @@
 
-# Pagina ejemplo 😉
+# Página ejemplo 😉
 
 
 ## Tecnologías empleadas: HTML, Git y GitHub
